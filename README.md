@@ -88,6 +88,24 @@ To scale this application for production:
 - Production scalability notes
 
 ---
+## 🚀 Getting Started
+- Clone the Repository -> git clone https://github.com/your-username/your-repo-name.git
 
+## Backend Setup
+- cd backend
+- npm install
+- npm run dev
+
+## Create a .env file:
+
+- PORT=8000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_secret_key
+  
+## Frontend Setup
+- cd frontend
+- npm install
+- npm start
+---
 ## 👩‍💻 Author
 **Khushi Samundre**   
